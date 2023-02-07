@@ -424,9 +424,9 @@ justify-content: space-between;
 .footer-faded-text {
 font-size: 3em;
 position: absolute;
-top: 120px;
-left: 0;
-bottom: 0;
+top: 100px;
+left:570px;
+bottom:100px;
 color: white;
 user-select: none;
 }
